@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/simple_shell.dir/main.c.o CMakeFiles/simple_shell.dir/parser.c.o CMakeFiles/simple_shell.dir/execute.c.o CMakeFiles/simple_shell.dir/sig-handler.c.o  -o simple_shell 
